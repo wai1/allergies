@@ -1,5 +1,7 @@
 # Allergies
 
+Please note: I wrote the allergies.h and allergies.cpp file, I did not write the allergies_test.cpp file.
+
 Welcome to Allergies on Exercism's C++ Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
